@@ -8,4 +8,4 @@ var obj ={
 
 }
 
-console.log(obj.getX.call(x))
+console.log('Method Call',obj.getX.call(x))
